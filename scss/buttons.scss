@@ -31,7 +31,7 @@ button:hover::before {
 
 button:hover {
     cursor: pointer;
-    background-image: url(/app/images/switch.png);
+    background-image: url(../images/switch.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@ button:hover {
 
 
 .selected {
-    background-image: url(/app/images/btn.png);
+    background-image: url(../images/btn.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
