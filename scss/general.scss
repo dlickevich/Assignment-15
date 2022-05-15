@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    background: linear-gradient(to right, rgb(64,
+                85,
+                100), rgb(25, 33, 42));
+    font-family: arial;
+    color: white;
+    text-align: center;
+
+
+
+}
+
+h1 {
+    color: rgb(122, 119, 119);
+    margin-top: 20px;
+    text-decoration: underline;
+    max-width: 1000px;
+
+}
+
+h3 {
+    max-width: 1000px;
+    color: rgb(161, 36, 61);
+}
+
